@@ -214,7 +214,8 @@ function updateLocalVoteCounts(arrayOfVoteArrays) {
 		let voteCount = voteArray[1];
 		pollResults[voteOption] = voteCount;
 	}
-}```
+}
+```
 
 
 ``main.mo``
