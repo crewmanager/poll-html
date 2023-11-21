@@ -216,6 +216,7 @@ function updateLocalVoteCounts(arrayOfVoteArrays) {
 	}
 }```
 
+
 ``main.mo``
 
 ```js
