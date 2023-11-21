@@ -218,7 +218,7 @@ function updateLocalVoteCounts(arrayOfVoteArrays) {
 
 ``main.mo``
 
-```
+```js
 import Text "mo:base/Text";
 import RBTree "mo:base/RBTree";
 import Iter "mo:base/Iter";
